@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, javascript**
 
-- 📫 How to reach me **pawar.adarsh8178@gmail.com**
+- 📫 How to reach me **pawaradarsh2277@gmail.com**
 
 - ⚡ Fun fact **I like football and gaming.**
 
