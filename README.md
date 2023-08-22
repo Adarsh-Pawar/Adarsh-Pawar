@@ -2,8 +2,6 @@
 <h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh-Pawar&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh-Pawar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Pawar&theme=dracula" alt="Adarsh-Pawar" /></a> </p>
-
 - 🔭 I’m currently working on **Automated Timetable generator**
 - 🌱 I’m currently learning **typescript, php**
 - 💬 Ask me about **react, c++**
@@ -32,10 +30,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Pawar&layout=compact&theme=tokyonight-duo" alt=Adarsh-Pawar />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Pawar&theme=tokyonight-duo" alt="Adarsh-Pawar" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Pawar&theme=dracula" alt="Adarsh-Pawar" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
