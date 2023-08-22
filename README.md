@@ -30,8 +30,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Pawar&layout=compact&theme=tokyonight-duo" alt=Adarsh-Pawar />
+<br />
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Pawar&layout=compact&theme=tokyonight" alt=Adarsh-Pawar />
+<br />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Pawar&theme=tokyonight-duo" alt="Adarsh-Pawar" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Pawar&theme=dracula" alt="Adarsh-Pawar" /></a> </p>
