@@ -32,7 +32,7 @@
 
 <br />
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Pawar&layout=compact&theme=tokyonight" alt=Adarsh-Pawar />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Pawar&layout=compact&theme=2077" alt=Adarsh-Pawar />
 <br />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Pawar&theme=tokyonight-duo" alt="Adarsh-Pawar" /></p>
 
