@@ -7,7 +7,7 @@
 - 💬 Ask me about **react, c++**
 
 - 👨‍💻 All of my projects are available at **https://pawaradarsh.me/My_Portfolio/**
-- 📄 Know about my experiences **https://pawaradarsh.me/My_Portfolio/assets/Adarsh_Pawar.pdf**
+- 📄 Know about my experiences **https://pawaradarsh.me/My_Portfolio/assets/Adarsh.pdf**
 - ⚡ Fun fact **I love football and gaming.**
 
 </div><h3 align="left">Connect with me:</h3>
