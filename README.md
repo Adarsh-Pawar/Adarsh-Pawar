@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh-Pawar&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh-Pawar" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **ReactJS, C++**
+- 💬 Ask me about **ReactJS, NextJS**
 
 - 👨‍💻 Visit my portfolio at **https://pawaradarsh.tech**
 - 📄 Know about my experiences - <a href="https://pawaradarsh.tech/My_Portfolio/assets/Adarsh.pdf" >My Resume.</a>
