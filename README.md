@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **.NET Core**
 - 💬 Ask me about **ReactJS, C++**
 
-- 👨‍💻 Visit my portfolio at **https://pawaradarsh.me/My_Portfolio/**
-- 📄 Know about my experiences **https://pawaradarsh.me/My_Portfolio/assets/Adarsh.pdf**
+- 👨‍💻 Visit my portfolio at **https://pawaradarsh.tech**
+- 📄 Know about my experiences **https://pawaradarsh.tech/My_Portfolio/assets/Adarsh.pdf**
 - ⚡ Fun fact ** I love football, cricket and gaming.**
 
 <h3 align="left">Connect with me:</h3>
