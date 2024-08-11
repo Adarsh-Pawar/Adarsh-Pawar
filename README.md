@@ -6,7 +6,7 @@
 - 💬 Ask me about **ReactJS, C++**
 
 - 👨‍💻 Visit my portfolio at **https://pawaradarsh.tech**
-- 📄 Know about my experiences **https://pawaradarsh.tech/My_Portfolio/assets/Adarsh.pdf**
+- 📄 Know about my experiences - <a href="https://pawaradarsh.me/My_Portfolio/assets/Adarsh.pdf" >Click Here.</a>
 - ⚡ Fun fact ** I love football, cricket and gaming.**
 
 <h3 align="left">Connect with me:</h3>
