@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my portfolio at **https://pawaradarsh.tech**
 - 📄 Know about my experiences - <a href="https://pawaradarsh.tech/My_Portfolio/assets/Adarsh.pdf" >My Resume.</a>
-- ⚡ Fun fact ** I love football, cricket and gaming.**
+- ⚡ Fun fact **I love football, cricket and gaming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
